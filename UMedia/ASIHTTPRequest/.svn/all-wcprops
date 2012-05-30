@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnlocal/PhotoTogether_iOS/!svn/ver/1/iPhone/chinese/trunk/Classes/Extentions/ASIHTTPRequest/ASIDataCompressor.m
+END

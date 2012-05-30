@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UMAnnotation.h
 //  UMedia
 //
 //  Created by  on 12-5-30.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface UMAnnotation : MKAnnotation
 
 @end
